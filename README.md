@@ -1,7 +1,8 @@
 # CodeCraft AI
 
-**CodeCraft AI** is an AI-powered web application generator. Describe your app idea in plain English, and the platform instantly generates beautiful, production-ready HTML, CSS, and JavaScript using Google Gemini AI. The project features a modern React + Vite + Tailwind CSS stack, live code preview, and a conversational interface for iterative design.
+**CodeCraft AI** is a next-generation web application generator powered by Google Gemini AI. Designed for developers, designers, and founders, it transforms plain English prompts into fully functional, beautiful web apps in real-time.
 
+💡 Just describe your idea — and watch the AI craft HTML, CSS, and JavaScript code instantly.
 ---
 
 ## Features
