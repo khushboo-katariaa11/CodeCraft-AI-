@@ -6,7 +6,9 @@
 
 ## Features
 
-<img src="" alt="homepage">
+<img src="s1.png" alt="homepage">
+<img src="s2.png" alt="homepage">
+<img src="s3.png" alt="homepage">
 
 - **AI-Powered Code Generation:** Uses Google Gemini AI to generate unique, high-quality web apps from user prompts.
 - **Modern UI/UX:** Beautiful landing page and editor interface built with React, Tailwind CSS, and Lucide React icons.
